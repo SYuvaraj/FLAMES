@@ -1,0 +1,15 @@
+.page-header {
+  text-align: center;
+}
+.page-header h1 {
+  text-align: center;
+}
+form {
+  width: 50%;
+  margin: 35px auto;
+}
+.result {
+  text-align: center;
+  font-size: 36px;
+  display: none;
+}
